@@ -28,6 +28,7 @@ BRADEMO/
     ├── exerc3/
     ├── exerc4/
     └── exerc5/
+```
 
 ## Tecnologias
 
@@ -36,7 +37,7 @@ BRADEMO/
 
 ## Autor
 
-DevSchoof
+Eduardo Schoof
 
 ---
 
