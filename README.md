@@ -10,10 +10,24 @@ Projetos e atividades desenvolvidos durante a disciplina de desenvolvimento mobi
 
 ```
 BRADEMO/
-├── Atividade-1/
-├── Atividade-2/
-└── ...
-```
+├── aula_01/
+│   ├── exerc1/
+│   ├── exerc2/
+│   ├── exerc3/
+│   ├── exerc4/
+│   ├── exerc5/
+│   ├── exerc6/
+│   ├── exerc7/
+│   ├── exerc8/
+│   ├── exerc9/
+│   ├── exerc10/
+│   └── exerc11/
+└── aula_02/
+    ├── exerc1/
+    ├── exerc2/
+    ├── exerc3/
+    ├── exerc4/
+    └── exerc5/
 
 ## Tecnologias
 
