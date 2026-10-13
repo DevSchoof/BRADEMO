@@ -1,0 +1,42 @@
+# ===== Flutter / Dart (vale para qualquer projeto em qualquer subpasta) =====
+.dart_tool/
+.pub-cache/
+.pub/
+build/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+*.g.dart.tmp
+
+# ===== Android =====
+**/android/.gradle/
+**/android/captures/
+**/android/local.properties
+**/android/key.properties
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+*.jks
+*.keystore
+
+# ===== iOS / macOS =====
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/ephemeral/
+**/ios/**/xcuserdata/
+**/macos/Pods/
+**/macos/Flutter/ephemeral/
+**/macos/**/xcuserdata/
+
+# ===== Linux / Windows / Web (gerados) =====
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+
+# ===== IDEs e sistema =====
+.idea/
+*.iml
+.DS_Store
+*.log
+
+# Material de aula (não versionar)
+Aulas/
