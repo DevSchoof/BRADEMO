@@ -32,13 +32,17 @@ BRADEMO/
 │   ├── exerc1/
 │   ├── exerc2/
 │   └── exerc3/
-└── aula_04/
+├── aula_04/
+│   ├── exerc1/
+│   ├── exerc2/
+│   ├── exerc3/
+│   ├── exerc4/
+│   ├── exerc5/
+│   └── exerc6/
+└── aula_05/
     ├── exerc1/
     ├── exerc2/
-    ├── exerc3/
-    ├── exerc4/
-    ├── exerc5/
-    └── exerc6/
+    └── exerc3/
 ```
 
 ## Tecnologias
